@@ -98,9 +98,9 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
       </a>
     </div>
   </div>
-    <div class="column">
+  <div class="column">
     <div>
-    <a href="https://wensun.github.io/">
+    <a href="">
       <img src="images/oliver.png" alt="Chang" style="border-radius: 50%;width:200px;
   height:200px;
   object-fit:cover;">
@@ -110,6 +110,7 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
       </div>
     </a>
     </div>
+  </div>
   <div class="column">
     <div>
     <a href="https://people.ucsc.edu/~lgilpin/">
@@ -126,11 +127,7 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
 
 
 <div class="row">
-
-
-
-  </div>
-    <div class="column">
+  <div class="column">
     <div>
       <a href="https://biagiomattialarosa.github.io/">
       <img src="images/biagio.jpg" alt="La Rosa" style="border-radius: 50%;width:200px;
