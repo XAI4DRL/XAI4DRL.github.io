@@ -60,7 +60,6 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
       </div>
     </div>
 </div>
-</div>
 <div class="row" style="border-style: groove; border-color:green; border-width: thin;">
     <div class="photo_speaker">   
   <a href="https://www.tbd.it/">
@@ -172,6 +171,7 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
 - Chaofan Chen
 - Eunji Kim 
 - Marco Valentino 
+- Riccardo Guidotti
 - Suryabhan Singh Hada 
 - Wolfgang Stammer 
 
