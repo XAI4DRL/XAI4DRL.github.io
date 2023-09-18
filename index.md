@@ -124,8 +124,7 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
     </a>
     </div>
   </div>
-
-
+</div>
 <div class="row">
   <div class="column">
     <div>
@@ -166,7 +165,6 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
       </a>
     </div>
   </div>
-
 </div>
 
 
@@ -180,8 +178,6 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
 <hr>
 
 # FAQ
-
-
 - **Q: Is the paper archived in any proceedings?** <br>
   *A: No, there will be no official proceedings. We will only host the papers on our website.*
 
