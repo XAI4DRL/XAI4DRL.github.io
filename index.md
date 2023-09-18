@@ -140,7 +140,6 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
       </a>
     </div>
   </div>
-</div>
   <div class="column">
     <div>
       <a href="https://sites.google.com/diag.uniroma1.it/michela-proietti">
