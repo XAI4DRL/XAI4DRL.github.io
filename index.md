@@ -100,7 +100,7 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
   <div class="column">
     <div>
     <a href="">
-      <img src="images/oliver.png" alt="Chang" style="border-radius: 50%;width:200px;
+      <img src="images/oliver.jpg" alt="Chang" style="border-radius: 50%;width:200px;
   height:200px;
   object-fit:cover;">
       <div class="container">
