@@ -40,7 +40,7 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
     <div class="speaker" style="margin:0;">
           <div style="padding-top: 30px;
   padding-bottom: 30px;">
-         <strong><a href="http://www.thomasjwalsh.net/">Tomas Walsh (Sony AI)</a></strong>
+         <strong><a href="http://www.thomasjwalsh.net/">Thomas Walsh (Sony AI)</a></strong>
          <br>
          <em>TBD</em>
         </div>
@@ -201,7 +201,7 @@ The call for papers includes two different tracks: *short* and *regular* track.
 ### **Short track:**
 
 ### **Regular track:**
-Submissions to this track have to be novel contributions covering any topic listed above. We don't accept work that has been already accepted or published to other venues before the submission deadline, or that is presented at the main AAAI conference, including as part of an invited talk. We solicit submission of full papers, position papers, and papers describing open problems on one of the topics listed above. Papers must be submitted through the open review system (LINK NOT AVAILABLE)). <u>Papers submitted to the workshop can be submitted to future conferences (e.g. ICML, ICLR) if the acceptance notification comes after the workshop date (February, 27)</u>. 
+Submissions to this track have to be novel contributions covering any topic listed above. We don't accept work that has been already accepted or published to other venues before the submission deadline, or that is presented at the main AAAI conference, including as part of an invited talk. We solicit submission of full papers, position papers, and papers describing open problems on one of the topics listed above. Papers must be submitted through the open review system (<a href="https://openreview.net/group?id=AAAI.org/2024/Workshop/XAI4DRL&referrer=%5BHomepage%5D(%2F)">LINK</a>)). <u>Papers submitted to the workshop can be submitted to future conferences (e.g. ICML, IJCAI) if the acceptance notification comes after the workshop date (February, 27)</u>. 
 
 *We encourage the authors to link a **anonymized** repository containing the code to replicate the results inside the corpus of the paper.* While this is not a mandatory requirement, it will be positively taken in account during the reviewing process and the selection of the contributed talks. You can use <a href="https://anonymous.4open.science/">Anonymous Github</a> or you can upload your repository on a service that allows anonymity (e.g. GDrive allows anonymous links).
 
