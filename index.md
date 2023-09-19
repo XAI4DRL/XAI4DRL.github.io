@@ -168,12 +168,16 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
 
 
 ## **Program Committee**
-- Chaofan Chen
-- Eunji Kim 
-- Marco Valentino 
-- Riccardo Guidotti
-- Suryabhan Singh Hada 
-- Wolfgang Stammer 
+- Andrea Fanti, Sapienza University of Rome
+- Chaofan Chen, University of Maine
+- Eunji Kim, Seoul National University
+- James MacGlashan, Sony AI
+- Marco Valentino, Idiap Research Institute
+- Riccardo Guidotti, University of Pisa
+- Shruti Mishra, Sony AI
+- Suryabhan Singh Hada, University of California
+- Wolfgang Stammer, Technical University Darmstadt 
+- Xiangyu Peng, Georgia Institute of Technology
 
 <hr>
 
