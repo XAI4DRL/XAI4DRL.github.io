@@ -17,16 +17,22 @@ The workshop aims to bring together researchers, practitioners, and experts from
 ## **Topics**
 
 The topics include <u>but are not limited to</u>:
-- Novel XAI methods (*post-hoc, ante-hoc*, model-agnostic, etc.);
-- Interpretable/Explainable deep reinforcement learning models;
-- XAI methods to extract learned strategies;
-- How can we use explanations to improve DRL agents?
-- XAI evaluation: how can we assess the quality of explanations and their effectiveness? 
-- Analysis of limitations of current XAI approaches;
+- XAI methods for Deep Learning
+- Evaluation of XAI methods
+- Self-Explainable Deep Reinforcement Learning
+- Post-hoc methods for Deep Reinforcement Learning
+- XAI-based Augmentation for Deep Reinforcement Learning
+- Policies Interpretation
+- Current-trend and Challenges in explaining Deep Reinforcement Learning
+- Reinforcement Learning-based XAI methods
+- Self-Explainable Deep Learning
+- Interpreting Reinforcement Learning
+- Debugging Deep Reinforcement Learning using XAI
+- Applications of Deep Reinforcement Learning combined with XAI to real-world tasks 
 - Position papers on the topic of the workshop.
 <hr>
 
-Note: XAI methods applied to deep reinforcement learning models will be prefered for the selection of contribution do be presented during the workshop. However, we also welcome XAI methods applied do deep learning or classica
+Note: XAI methods applied to deep reinforcement learning models will be prefered for the selection of contribution do be presented during the workshop. 
 
 # **Schedule**
  TBD
@@ -55,7 +61,7 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
         <div class="speaker" style="margin:0;">
       <div style="padding-top: 30px;
   padding-bottom: 30px;">
-        <a href="https://www.tbd.it/"><strong>TBD</strong></a><br>
+        <a href="https://www.tbd.it/"><strong>To be confirmed</strong></a><br>
         <em>TBD</em>     
       </div>
     </div>
@@ -68,12 +74,24 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
         <div class="speaker" style="margin:0;">
       <div style="padding-top: 30px;
   padding-bottom: 30px;">
-        <a href="https://www.tbd.it/"><strong>TBD</strong></a><br>
+        <a href="https://www.tbd.it/"><strong>To be confirmed</strong></a><br>
         <em>TBD</em>     
       </div>
     </div>
 </div>
-
+<div class="row" style="border-style: groove; border-color:green; border-width: thin;">
+    <div class="photo_speaker">   
+  <a href="https://www.tbd.it/">
+      <img src="images/tbd.jpg" alt="tbd" style=" margin-left: 10px;margin-top: 10px;margin-bottom:10px; width:100px;  height:100px;  object-fit:cover;"></a>
+    </div>
+        <div class="speaker" style="margin:0;">
+      <div style="padding-top: 30px;
+  padding-bottom: 30px;">
+        <a href="https://www.tbd.it/"><strong>To be confirmed</strong></a><br>
+        <em>TBD</em>     
+      </div>
+    </div>
+</div>
 
 
 
@@ -169,15 +187,30 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
 
 ## **Program Committee**
 - Andrea Fanti, Sapienza University of Rome
+- Andrew Silva, Georgia Institute of Technology
+- Bettina Finzel, University of Bamberg 
 - Chaofan Chen, University of Maine
+- Di Wang, University of Illinois at Chicago
+- Dmitry Gnatyshak, Barcelona Supercomputing Center 
+- Erico Tjoa, Stanford University
 - Eunji Kim, Seoul National University
+- Fredrik Heintz, Linköping University
+- George Vouros, University of Piraeus
+- Giorgio Angelotti, ISAE-Supaero
+- Ishan Durugkar, Sony AI
 - James MacGlashan, Sony AI
+- Jasmina Gajcin, Trinity College Dublin
+- Juan Marcelo Parra Ullauri,  University of Bristol
+- Lindsay Sanneman, MIT
 - Marco Valentino, Idiap Research Institute
 - Riccardo Guidotti, University of Pisa
+- Sarra Alqahtani, Wake Forest University
 - Shruti Mishra, Sony AI
 - Suryabhan Singh Hada, University of California
+- Tom Bewley, University of Bristol
 - Wolfgang Stammer, Technical University Darmstadt 
 - Xiangyu Peng, Georgia Institute of Technology
+- Ziheng Chen, Stony Brook University
 
 <hr>
 
@@ -197,22 +230,23 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
 
 # **Call for Papers**
 
-The call for papers includes two different tracks: *short* and *regular* track.
+We solicit submissions of previously unpublished papers, both as **short** and **full** papers.
+*Short papers* are up to 4 pages max without any supplemental material associated with.
+*Full papers* are up to 7 pages and can be associated with supplementary materials (unlimited pages for supplemental material). Note that looking at supplementary material is at the discretion of the reviewers.
+The references pages are not considered in the calculation of pages, so you can use unlimited references in both the cases.
 
 
-## **Tracks**
+Submissions have to be novel contributions covering any topic listed above. We don't accept work that has been already accepted or published to other venues before the submission deadline, or that is presented at the main AAAI conference, including as part of an invited talk.
 
-### **Short track:**
-
-### **Regular track:**
-Submissions to this track have to be novel contributions covering any topic listed above. We don't accept work that has been already accepted or published to other venues before the submission deadline, or that is presented at the main AAAI conference, including as part of an invited talk. We solicit submission of full papers, position papers, and papers describing open problems on one of the topics listed above. Papers must be submitted through the open review system (<a href="https://openreview.net/group?id=AAAI.org/2024/Workshop/XAI4DRL&referrer=%5BHomepage%5D(%2F)">LINK</a>)). <u>Papers submitted to the workshop can be submitted to future conferences (e.g. ICML, IJCAI) if the acceptance notification comes after the workshop date (February, 27)</u>. 
+Papers must be submitted through the open review system (<a href="https://openreview.net/group?id=AAAI.org/2024/Workshop/XAI4DRL&referrer=%5BHomepage%5D(%2F)">LINK</a>)). 
+This workshop is **not archival**. Therefore, <u> papers submitted to the workshop can be submitted to future conferences (e.g. ICML, IJCAI) if the acceptance notification comes after the workshop date (February, 27)</u>. 
 
 *We encourage the authors to link a **anonymized** repository containing the code to replicate the results inside the corpus of the paper.* While this is not a mandatory requirement, it will be positively taken in account during the reviewing process and the selection of the contributed talks. You can use <a href="https://anonymous.4open.science/">Anonymous Github</a> or you can upload your repository on a service that allows anonymity (e.g. GDrive allows anonymous links).
 
-Submissions must be in an **anonymized paper format** following the same template of the AAAI track (see <a href="https://aaai.org/aaai-conference/submission-instructions/"> HERE</a>), and they are limited to a maximum of 7 pages, excluding references. They will undergo double-blind peer review. Authors may append to the paper supplementary material, such as appendices, proofs, and derivations; Like submissions, supplementary material must be anonymized. Looking at supplementary material is at the discretion of the reviewers.
+Submissions must be in an **anonymized paper format** following the same template of the AAAI track (see <a href="https://aaai.org/aaai-conference/submission-instructions/"> HERE</a>). They will undergo double-blind peer review. Any data included in the submission (paper, supplemental material, linked code) must be anonymized. 
 
 
-Accepted works will be presented as contributed talks or as posters in a poster session depending on schedule constraints.
+Accepted works will be presented as contributed talks or as posters depending on schedule constraints.
 <u>It is mandatory that at least one of the authors will attend the workshop and present its work during the contributed talks and the poster session</u>. 
 
 
@@ -225,6 +259,7 @@ Submission deadline: 11:59 PM CET, Nov 15, 2023
 
 Notification date:  11:59 PM CET, Dec 10, 2023
 
+Submission Link: <a href="https://openreview.net/group?id=AAAI.org/2024/Workshop/XAI4DRL&referrer=%5BHomepage%5D(%2F)">OpenReview</a>
 
 
 # **Contacts**
