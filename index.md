@@ -46,7 +46,9 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
     <div class="speaker" style="margin:0;">
           <div style="padding-top: 30px;
   padding-bottom: 30px;">
-         <strong><a href="http://www.thomasjwalsh.net/">Thomas Walsh (Sony AI)</a></strong>
+         <strong><a href="http://www.thomasjwalsh.net/">Thomas Walsh </a></strong>
+         <br>
+         <em>Sony AI</em>
          <br>
          <em>TBD</em>
         </div>
@@ -61,8 +63,9 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
         <div class="speaker" style="margin:0;">
       <div style="padding-top: 30px;
   padding-bottom: 30px;">
-        <a href="https://eilab.gatech.edu/"><strong>Mark Riedl</strong></a><br>
-        <em>TBD</em>     
+        <a href="https://eilab.gatech.edu/"><strong>Mark Riedl </strong></a><br>
+        <em>Georgia Institute of Technology</em> <br>
+        <em>TBD</em>    
       </div>
     </div>
 </div>
@@ -75,7 +78,9 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
       <div style="padding-top: 30px;
   padding-bottom: 30px;">
         <a href="https://www.tbd.it/"><strong>To be confirmed</strong></a><br>
-        <em>TBD</em>     
+        <em>TBD</em>  
+        <br>
+         <em>TBD</em>   
       </div>
     </div>
 </div>
@@ -88,7 +93,9 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
       <div style="padding-top: 30px;
   padding-bottom: 30px;">
         <a href="https://www.tbd.it/"><strong>To be confirmed</strong></a><br>
-        <em>TBD</em>     
+        <em>TBD</em>
+        <br>
+         <em>TBD</em>     
       </div>
     </div>
 </div>
