@@ -55,13 +55,13 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
 </div>
 <div class="row" style="border-style: groove; border-color:green; border-width: thin;">
     <div class="photo_speaker">   
-  <a href="https://www.tbd.it/">
-      <img src="images/tbd.jpg" alt="tbd" style=" margin-left: 10px;margin-top: 10px;margin-bottom:10px; width:100px;  height:100px;  object-fit:cover;"></a>
+  <a href="https://eilab.gatech.edu/">
+      <img src="images/riedl.jpg" alt="tbd" style=" margin-left: 10px;margin-top: 10px;margin-bottom:10px; width:100px;  height:100px;  object-fit:cover;"></a>
     </div>
         <div class="speaker" style="margin:0;">
       <div style="padding-top: 30px;
   padding-bottom: 30px;">
-        <a href="https://www.tbd.it/"><strong>To be confirmed</strong></a><br>
+        <a href="https://eilab.gatech.edu/"><strong>Mark Riedl</strong></a><br>
         <em>TBD</em>     
       </div>
     </div>
@@ -258,6 +258,8 @@ Submission system opens: 11:59 PM CET, Oct 15, 2023
 Submission deadline: 11:59 PM CET, Nov 15, 2023 
 
 Notification date:  11:59 PM CET, Dec 10, 2023
+
+Workshop: 09:00 AM GMT-7, Feb 27, 2023 **(To be Confirmed)**
 
 Submission Link: <a href="https://openreview.net/group?id=AAAI.org/2024/Workshop/XAI4DRL&referrer=%5BHomepage%5D(%2F)">OpenReview</a>
 
