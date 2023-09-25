@@ -71,14 +71,14 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
 </div>
 <div class="row" style="border-style: groove; border-color:green; border-width: thin;">
     <div class="photo_speaker">   
-  <a href="https://www.tbd.it/">
-      <img src="images/tbd.jpg" alt="tbd" style=" margin-left: 10px;margin-top: 10px;margin-bottom:10px; width:100px;  height:100px;  object-fit:cover;"></a>
+  <a href="https://koulanurag.dev/">
+      <img src="images/koul.jpeg" alt="tbd" style=" margin-left: 10px;margin-top: 10px;margin-bottom:10px; width:100px;  height:100px;  object-fit:cover;"></a>
     </div>
         <div class="speaker" style="margin:0;">
       <div style="padding-top: 30px;
   padding-bottom: 30px;">
-        <a href="https://www.tbd.it/"><strong>To be confirmed</strong></a><br>
-        <em>TBD</em>  
+        <a href="https://koulanurag.dev/"><strong>Anurag Koul</strong></a><br>
+        <em>Microsoft Research</em>  
         <br>
          <em>TBD</em>   
       </div>
