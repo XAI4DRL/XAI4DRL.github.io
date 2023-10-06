@@ -58,7 +58,7 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
 <div class="row" style="border-style: groove; border-color:green; border-width: thin;">
     <div class="photo_speaker">   
   <a href="https://eilab.gatech.edu/">
-      <img src="images/riedl.jpg" alt="tbd" style=" margin-left: 10px;margin-top: 10px;margin-bottom:10px; width:100px;  height:100px;  object-fit:cover;"></a>
+      <img src="images/riedl.jpg" alt="Mark Riedl" style=" margin-left: 10px;margin-top: 10px;margin-bottom:10px; width:100px;  height:100px;  object-fit:cover;"></a>
     </div>
         <div class="speaker" style="margin:0;">
       <div style="padding-top: 30px;
@@ -72,7 +72,7 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
 <div class="row" style="border-style: groove; border-color:green; border-width: thin;">
     <div class="photo_speaker">   
   <a href="https://koulanurag.dev/">
-      <img src="images/koul.jpeg" alt="tbd" style=" margin-left: 10px;margin-top: 10px;margin-bottom:10px; width:100px;  height:100px;  object-fit:cover;"></a>
+      <img src="images/koul.jpeg" alt="Anurag Koul" style=" margin-left: 10px;margin-top: 10px;margin-bottom:10px; width:100px;  height:100px;  object-fit:cover;"></a>
     </div>
         <div class="speaker" style="margin:0;">
       <div style="padding-top: 30px;
@@ -86,14 +86,14 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
 </div>
 <div class="row" style="border-style: groove; border-color:green; border-width: thin;">
     <div class="photo_speaker">   
-  <a href="https://www.tbd.it/">
-      <img src="images/tbd.jpg" alt="tbd" style=" margin-left: 10px;margin-top: 10px;margin-bottom:10px; width:100px;  height:100px;  object-fit:cover;"></a>
+  <a href="https://www.linkedin.com/in/melinda-gervasio-b92147142">
+      <img src="images/melinda.jpg" alt="Melinda Gervasio" style=" margin-left: 10px;margin-top: 10px;margin-bottom:10px; width:100px;  height:100px;  object-fit:cover;"></a>
     </div>
         <div class="speaker" style="margin:0;">
       <div style="padding-top: 30px;
   padding-bottom: 30px;">
-        <a href="https://www.tbd.it/"><strong>To be confirmed</strong></a><br>
-        <em>TBD</em>
+        <a href="https://www.linkedin.com/in/melinda-gervasio-b92147142"><strong>Melinda Gervasio</strong></a><br>
+        <em>SRI International</em>
         <br>
          <em>TBD</em>     
       </div>
