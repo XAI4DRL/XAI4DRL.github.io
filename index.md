@@ -193,6 +193,7 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
 
 
 ## **Program Committee**
+- Aaquib Tabrez, University of Colorado Boulder
 - Alexander Binder, Singapore Institute of Technology
 - Andrea Fanti, Sapienza University of Rome
 - Andrew Silva, Georgia Institute of Technology
@@ -209,7 +210,9 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
 - Giorgio Angelotti, ISAE-Supaero
 - Ishan Durugkar, Sony AI
 - James MacGlashan, Sony AI
+- Jaesik Choi, KAIST
 - Jasmina Gajcin, Trinity College Dublin
+- Jasper van der Waa, Researcher at TNO
 - José Antonio Oramas Mogrovejo, University of Antwerp
 - Juan Marcelo Parra Ullauri,  University of Bristol
 - Lindsay Sanneman, MIT
@@ -217,6 +220,7 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
 - Moritz Lange, Ruhr University Bochum
 - Nabil Aouf, City University of London
 - Pradyumna Tambwekar, Georgia Institute of Technology
+- Raphael C. Engelhardt, TH Koln
 - Riccardo Guidotti, University of Pisa
 - Sarra Alqahtani, Wake Forest University
 - Satyapriya Krishna, Harvard University
@@ -225,10 +229,12 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
 - Tianpei Yang, Tianjin University
 - Tom Bewley, University of Bristol
 - Umang Bhatt, NYU’s Center for Data Science
+- Weiru Liu, University of Bristol
 - Wojciech Samek, TU Berlin
 - Wolfgang Stammer, Technical University Darmstadt 
 - Xiangyu Peng, Georgia Institute of Technology
 - Xuan Chen, Purdue University
+- Yotam Amitai, Technion Israel Institute of Technology
 - Ziheng Chen, Stony Brook University
 
 <hr>
