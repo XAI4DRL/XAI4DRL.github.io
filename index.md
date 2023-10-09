@@ -229,7 +229,6 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
 - Tianpei Yang, Tianjin University
 - Tom Bewley, University of Bristol
 - Umang Bhatt, NYU’s Center for Data Science
-- Weiru Liu, University of Bristol
 - Wojciech Samek, TU Berlin
 - Wolfgang Stammer, Technical University Darmstadt 
 - Xiangyu Peng, Georgia Institute of Technology
