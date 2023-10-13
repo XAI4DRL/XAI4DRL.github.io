@@ -277,13 +277,13 @@ Accepted works will be presented as contributed talks or as posters depending on
 
 **Important Dates**
 
-Submission system opens: 11:59 PM CET, Oct 15, 2023
+Submission system opens: 11:59 PM GMT, Oct 15, 2023
 
-Submission deadline: 11:59 PM CET, Nov 15, 2023 
+Submission deadline: 11:59 PM GMT, Nov 15, 2023 
 
-Notification date:  11:59 PM CET, Dec 10, 2023
+Notification date:  11:59 PM GMT, Dec 10, 2023
 
-Workshop: 09:00 AM GMT-7, Feb 27, 2023 **(To be Confirmed)**
+Workshop: 09:00 AM GMT-7, Feb 27, 2023 
 
 Submission Link: <a href="https://openreview.net/group?id=AAAI.org/2024/Workshop/XAI4DRL&referrer=%5BHomepage%5D(%2F)">OpenReview</a>
 
