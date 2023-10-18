@@ -205,6 +205,7 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
 - Dmitry Gnatyshak, Barcelona Supercomputing Center 
 - Erico Tjoa, Stanford University
 - Eunji Kim, Seoul National University
+- Francisco Cruz, University of New South Wales Sydney
 - Fredrik Heintz, Linköping University
 - George Vouros, University of Piraeus
 - Giorgio Angelotti, ISAE-Supaero
@@ -220,6 +221,7 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
 - Moritz Lange, Ruhr University Bochum
 - Nabil Aouf, City University of London
 - Pradyumna Tambwekar, Georgia Institute of Technology
+- Randy Goebel, University of Alberta
 - Raphael C. Engelhardt, TH Koln
 - Riccardo Guidotti, University of Pisa
 - Sarra Alqahtani, Wake Forest University
@@ -227,6 +229,7 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
 - Shruti Mishra, Sony AI
 - Suryabhan Singh Hada, University of California
 - Tianpei Yang, Tianjin University
+- Tobias Huber, Augsburg University
 - Tom Bewley, University of Bristol
 - Umang Bhatt, NYU’s Center for Data Science
 - Wojciech Samek, TU Berlin
