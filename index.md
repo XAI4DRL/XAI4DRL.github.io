@@ -41,7 +41,7 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
 
 <div class="row" style="margin:0;border-style: groove; border-color:green; border-width: thin;">
     <div class="photo_speaker">    
-      <a href="https://ai.sony/people/Jerone-Andrews/"><img src="images/jerone.jpg" alt="Jerone Andrews" style="margin-left: 10px;margin-top: 10px;margin-bottom:10px;  width:100px;  height:100px;  object-fit:cover;"></a>
+      <a href="https://ai.sony/people/Jerone-Andrews/"><img src="images/jerone.jpg" alt="Jerone Andrews" style="margin-left: 10px;margin-top: 10px;margin-bottom:10px;  width:150px;  height:150px;  object-fit:cover;"></a>
     </div>
     <div class="speaker" style="margin:0;">
           <div style="padding-top: 30px;
@@ -58,7 +58,7 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
 <div class="row" style="border-style: groove; border-color:green; border-width: thin;">
     <div class="photo_speaker">   
   <a href="https://eilab.gatech.edu/">
-      <img src="images/riedl.jpg" alt="Mark Riedl" style=" margin-left: 10px;margin-top: 10px;margin-bottom:10px; width:100px;  height:100px;  object-fit:cover;"></a>
+      <img src="images/riedl.jpg" alt="Mark Riedl" style=" margin-left: 10px;margin-top: 10px;margin-bottom:10px; width:150px;  height:150px;  object-fit:cover;"></a>
     </div>
         <div class="speaker" style="margin:0;">
       <div style="padding-top: 30px;
@@ -72,7 +72,7 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
 <div class="row" style="border-style: groove; border-color:green; border-width: thin;">
     <div class="photo_speaker">   
   <a href="https://koulanurag.dev/">
-      <img src="images/koul.jpeg" alt="Anurag Koul" style=" margin-left: 10px;margin-top: 10px;margin-bottom:10px; width:100px;  height:100px;  object-fit:cover;"></a>
+      <img src="images/koul.jpeg" alt="Anurag Koul" style=" margin-left: 10px;margin-top: 10px;margin-bottom:10px; width:150px;  height:150px;  object-fit:cover;"></a>
     </div>
         <div class="speaker" style="margin:0;">
       <div style="padding-top: 30px;
@@ -87,7 +87,7 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
 <div class="row" style="border-style: groove; border-color:green; border-width: thin;">
     <div class="photo_speaker">   
   <a href="https://www.linkedin.com/in/melinda-gervasio-b92147142">
-      <img src="images/melinda.jpg" alt="Melinda Gervasio" style=" margin-left: 10px;margin-top: 10px;margin-bottom:10px; width:100px;  height:100px;  object-fit:cover;"></a>
+      <img src="images/melinda.jpg" alt="Melinda Gervasio" style=" margin-left: 10px;margin-top: 10px;margin-bottom:10px; width:150px;  height:150px;  object-fit:cover;"></a>
     </div>
         <div class="speaker" style="margin:0;">
       <div style="padding-top: 30px;
@@ -112,8 +112,8 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
   <div class="column">
     <div>
       <a href="http://robertocapobianco.com/">  
-      <img src="images/roberto.jpg"  alt="Capobianco" style="border-radius: 50%;  width:200px;
-  height:200px;
+      <img src="images/roberto.jpg"  alt="Capobianco" style="border-radius: 50%;  width:170px;
+  height:170px;
   object-fit:cover;">
       <div class="container">
         <h3>Roberto&nbsp;&nbsp;Capobianco</h3>
@@ -125,8 +125,8 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
   <div class="column">
     <div>
     <a href="">
-      <img src="images/oliver.jpg" alt="Chang" style="border-radius: 50%;width:200px;
-  height:200px;
+      <img src="images/oliver.jpg" alt="Chang" style="border-radius: 50%;width:170px;
+  height:170px;
   object-fit:cover;">
       <div class="container">
         <h3>Oliver Chang</h3>
@@ -138,8 +138,8 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
   <div class="column">
     <div>
     <a href="https://people.ucsc.edu/~lgilpin/">
-      <img src="images/leilani.jpg" alt="Gilpin" style="border-radius: 50%;width:200px;
-  height:200px;
+      <img src="images/leilani.jpg" alt="Gilpin" style="border-radius: 50%;width:170px;
+  height:170px;
   object-fit:cover;">
       <div class="container">
         <h3>Leilani H. Gilpin</h3>
@@ -153,8 +153,8 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
   <div class="column">
     <div>
       <a href="https://biagiomattialarosa.github.io/">
-      <img src="images/biagio.jpg" alt="La Rosa" style="border-radius: 50%;width:200px;
-  height:200px;
+      <img src="images/biagio.jpg" alt="La Rosa" style="border-radius: 50%;width:170px;
+  height:170px;
   object-fit:cover;">
       <div class="container">
         <h3>Biagio La Rosa</h3>
@@ -166,8 +166,8 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
   <div class="column">
     <div>
       <a href="https://sites.google.com/diag.uniroma1.it/michela-proietti">
-      <img src="images/proietti.jpg" alt="Proietti" style="border-radius: 50%;width:200px;
-  height:200px;
+      <img src="images/proietti.jpg" alt="Proietti" style="border-radius: 50%;width:170px;
+  height:170px;
   object-fit:cover;">
       <div class="container">
         <h3>Michela Proietti</h3>
@@ -179,8 +179,8 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
   <div class="column">
     <div>
       <a href="https://alessio.ragno.info">
-      <img src="images/ragno.jpg" alt="Ragno" style="border-radius: 50%;width:200px;
-  height:200px;
+      <img src="images/ragno.jpg" alt="Ragno" style="border-radius: 50%;width:170px;
+  height:170px;
   object-fit:cover;">
       <div class="container">
         <h3>Alessio Ragno</h3>
