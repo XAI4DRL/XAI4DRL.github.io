@@ -41,12 +41,12 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
 
 <div class="row" style="margin:0;border-style: groove; border-color:green; border-width: thin;">
     <div class="photo_speaker">    
-      <a href="TBD"><img src="images/TBD.jpg" alt="TBD" style="margin-left: 10px;margin-top: 10px;margin-bottom:10px;  width:100px;  height:100px;  object-fit:cover;"></a>
+      <a href="https://ai.sony/people/Jerone-Andrews/"><img src="images/jerone.jpg" alt="Jerone Andrews" style="margin-left: 10px;margin-top: 10px;margin-bottom:10px;  width:100px;  height:100px;  object-fit:cover;"></a>
     </div>
     <div class="speaker" style="margin:0;">
           <div style="padding-top: 30px;
   padding-bottom: 30px;">
-         <strong><a href="TBD">TBD </a></strong>
+         <strong><a href="https://ai.sony/people/Jerone-Andrews/">Jerone Andrews</a></strong>
          <br>
          <em>TBD</em>
          <br>
