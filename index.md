@@ -48,7 +48,7 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
   padding-bottom: 30px;">
          <strong><a href="https://ai.sony/people/Jerone-Andrews/">Jerone Andrews</a></strong>
          <br>
-         <em>TBD</em>
+         <em>Sony AI</em>
          <br>
          <em>TBD</em>
         </div>
