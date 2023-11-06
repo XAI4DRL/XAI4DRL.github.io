@@ -242,6 +242,15 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
 <hr>
 
 # FAQ
+- **Q: Will rejected papers be displayed on OpenReview?** <br>
+*A: No they will not be displayed on OpenReview.*
+
+- **Q: Will accepted papers be displayed on OpenReview?** <br>
+*A: Yes, they will be displayed on OpenReview.*
+
+- **Q: Will reviews be public after thre review stage?** <br>
+*A: No, reviews will be visible only to Authors, Program Chairs, and reviewers.*
+
 - **Q: Is the paper archived in any proceedings?** <br>
   *A: No, there will be no official proceedings. We will only host the papers on our website.*
 
@@ -251,7 +260,8 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
 - **Q: Is there any additional cost associated with the acceptance of my paper?** <br>
 *A: There are no additional costs associated with our workshop.*
 
-
+- **Q: Is there any additional cost associated with the acceptance of my paper?** <br>
+*A: There are no additional costs associated with our workshop.*
 
 
 
