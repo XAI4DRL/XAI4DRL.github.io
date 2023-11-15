@@ -292,7 +292,7 @@ Accepted works will be presented as contributed talks or as posters depending on
 
 Submission system opens: 11:59 PM GMT, Oct 15, 2023
 
-Submission deadline: 11:59 PM GMT, Nov 15, 2023 
+Submission deadline: 11:59 PM GMT, ~~Nov 15~~ Nov 21th, 2023 (Extended!!!)
 
 Notification date:  11:59 PM GMT, Dec 10, 2023
 
