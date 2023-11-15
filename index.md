@@ -269,8 +269,8 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
 
 We solicit submissions of previously unpublished papers, both as **short** and **full** papers.
 *Short papers* are up to 4 pages max without any supplemental material associated with.
-*Full papers* are up to 7 pages and can be associated with supplementary materials (unlimited pages for supplemental material). Note that looking at supplementary material is at the discretion of the reviewers.
-The references pages are not considered in the calculation of pages, so you can use unlimited references in both the cases.
+*Full papers* are up to 7 pages and can be associated with supplementary materials (unlimited pages for supplemental material) attached at the end of the manuscript. Note that looking at supplementary material is at the discretion of the reviewers.
+The references pages and the supplemental materials are not considered in the calculation of pages, so you can use unlimited references in both the cases.
 
 
 Submissions have to be novel contributions covering any topic listed above. We don't accept work that has been already accepted or published to other venues before the submission deadline, or that is presented at the main AAAI conference, including as part of an invited talk.
