@@ -14,10 +14,45 @@ Deep Reinforcement Learning (DRL) has recently made remarkable progress in solvi
 
 The workshop aims to bring together researchers, practitioners, and experts from both communities (DRL and XAI) by primarily focusing on methods, techniques, and frameworks that enhance the explainability and interpretability of DRL algorithms. Additionally, we will work towards defining standardized metrics and protocols to evaluate the performance and transparency of autonomous systems.
 
+# **Call for Papers**
+
+We solicit submissions of previously unpublished papers, both as **short** and **full** papers.
+*Short papers* are up to 4 pages max without any supplemental material associated with.
+*Full papers* are up to 7 pages and can be associated with supplementary materials (unlimited pages for supplemental material) attached at the end of the manuscript. Note that looking at supplementary material is at the discretion of the reviewers.
+The references pages and the supplemental materials are not considered in the calculation of pages, so you can use unlimited references in both the cases. 
+
+
+Submissions have to be novel contributions covering any topic listed below. We don't accept work that has been already accepted or published to other venues before the submission deadline, or that is presented at the main AAAI conference, including as part of an invited talk.
+
+Papers must be submitted through the open review system (<a href="https://openreview.net/group?id=AAAI.org/2024/Workshop/XAI4DRL&referrer=%5BHomepage%5D(%2F)">LINK</a>)). 
+This workshop is **not archival**. Therefore, <u> papers submitted to the workshop can be submitted to future conferences (e.g. ICML, IJCAI) if the acceptance notification comes after the workshop date (February, 27)</u>. 
+
+*We encourage the authors to link a **anonymized** repository containing the code to replicate the results inside the corpus of the paper.* While this is not a mandatory requirement, it will be positively taken in account during the reviewing process and the selection of the contributed talks. You can use <a href="https://anonymous.4open.science/">Anonymous Github</a> or you can upload your repository on a service that allows anonymity (e.g. GDrive allows anonymous links).
+
+Submissions must be in an **anonymized paper format** following the same template of the AAAI track (see <a href="https://aaai.org/aaai-conference/submission-instructions/"> HERE</a>). They will undergo double-blind peer review. Any data included in the submission (paper, supplemental material, linked code) must be anonymized. 
+
+
+Accepted works will be presented as contributed talks or as posters depending on schedule constraints.
+<u>It is mandatory that at least one of the authors will attend the workshop and present its work during the contributed talks and the poster session</u>. 
+
+
+
+**Important Dates**
+
+Submission system opens: Oct 15 11:59 PM GMT, 2023
+
+Submission deadline: , ~~Nov 15~~ Nov 21st 11:59 PM GMT, 2023 (Extended!!!)
+
+Notification date: Dec 10 11:59 PM GMT, 2023
+
+Workshop: Feb 27 09:00 AM GMT-7, 2023 
+
+Submission Link: <a href="https://openreview.net/group?id=AAAI.org/2024/Workshop/XAI4DRL&referrer=%5BHomepage%5D(%2F)">OpenReview</a>
+
 ## **Topics**
 
 The topics include <u>but are not limited to</u>:
-- XAI methods for Deep Learning
+- XAI methods for or applied to Deep Learning  (**even if it does not involve reinforcement learning**)
 - Evaluation of XAI methods
 - Self-Explainable Deep Reinforcement Learning
 - Post-hoc methods for Deep Reinforcement Learning
@@ -32,7 +67,41 @@ The topics include <u>but are not limited to</u>:
 - Position papers on the topic of the workshop.
 <hr>
 
-Note: XAI methods applied to deep reinforcement learning models will be prefered for the selection of contribution do be presented during the workshop. 
+Note: XAI methods applied to deep reinforcement learning models will be prefered for the selection of contribution do be presented during the workshop in case of bordline decisions. 
+
+# FAQ
+- **Q: My work is a <u>model-agnostic XAI</u> method and one of the tests has been applied to deep learning but without considering reinforcement learning. Does it fit the workshop's topic?** <br>
+*A: Yes, it does.*
+
+- **Q: My work is a <u>XAI</u> method tailored for deep learning but without considering reinforcement learning. Does it fit the workshop's topic?** <br>
+*A: Yes, it does.*
+
+- **Q: My work is a <u>XAI</u> method tailored for a machine learning model different deep learning (e.g. decision tree). Does it fit the workshop's topic?** <br>
+*A: We plan to allocate the first part of the workshop to an introduction to XAI methods. Therefore a limited number of slots could be allocated to this kind of work if needed (e.g. strong submissions from this set of works, low number of sumbission covering RL, etc.). We invite you to submit your work even if the method is applied to a different kind of machine learning model.*
+
+- **Q: Will rejected papers be displayed on OpenReview?** <br>
+*A: No they will not be displayed on OpenReview.*
+
+- **Q: Will accepted papers be displayed on OpenReview?** <br>
+*A: Yes, they will be displayed on OpenReview.*
+
+- **Q: Will reviews be public after thre review stage?** <br>
+*A: No, reviews will be visible only to Authors, Program Chairs, and reviewers.*
+
+- **Q: Is the paper archived in any proceedings?** <br>
+  *A: No, there will be no official proceedings. We will only host the papers on our website.*
+
+- **Q: Can I attend the workshop without being registered for AAAI 2024 conference?** <br>
+*A: The workshop is hosted by AAAI. Therefore, you have to be registered for the conference of AAAI 2024 in order to attend the talks and the poster session of our workshop.*
+
+- **Q: Is there any additional cost associated with the acceptance of my paper?** <br>
+*A: There are no additional costs associated with our workshop.*
+
+- **Q: Is there any additional cost associated with the acceptance of my paper?** <br>
+*A: There are no additional costs associated with our workshop.*
+
+
+
 
 # **Schedule**
  TBD
@@ -241,64 +310,9 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
 
 <hr>
 
-# FAQ
-- **Q: Will rejected papers be displayed on OpenReview?** <br>
-*A: No they will not be displayed on OpenReview.*
-
-- **Q: Will accepted papers be displayed on OpenReview?** <br>
-*A: Yes, they will be displayed on OpenReview.*
-
-- **Q: Will reviews be public after thre review stage?** <br>
-*A: No, reviews will be visible only to Authors, Program Chairs, and reviewers.*
-
-- **Q: Is the paper archived in any proceedings?** <br>
-  *A: No, there will be no official proceedings. We will only host the papers on our website.*
-
-- **Q: Can I attend the workshop without being registered for AAAI 2024 conference?** <br>
-*A: The workshop is hosted by AAAI. Therefore, you have to be registered for the conference of AAAI 2024 in order to attend the talks and the poster session of our workshop.*
-
-- **Q: Is there any additional cost associated with the acceptance of my paper?** <br>
-*A: There are no additional costs associated with our workshop.*
-
-- **Q: Is there any additional cost associated with the acceptance of my paper?** <br>
-*A: There are no additional costs associated with our workshop.*
 
 
 
-# **Call for Papers**
-
-We solicit submissions of previously unpublished papers, both as **short** and **full** papers.
-*Short papers* are up to 4 pages max without any supplemental material associated with.
-*Full papers* are up to 7 pages and can be associated with supplementary materials (unlimited pages for supplemental material) attached at the end of the manuscript. Note that looking at supplementary material is at the discretion of the reviewers.
-The references pages and the supplemental materials are not considered in the calculation of pages, so you can use unlimited references in both the cases.
-
-
-Submissions have to be novel contributions covering any topic listed above. We don't accept work that has been already accepted or published to other venues before the submission deadline, or that is presented at the main AAAI conference, including as part of an invited talk.
-
-Papers must be submitted through the open review system (<a href="https://openreview.net/group?id=AAAI.org/2024/Workshop/XAI4DRL&referrer=%5BHomepage%5D(%2F)">LINK</a>)). 
-This workshop is **not archival**. Therefore, <u> papers submitted to the workshop can be submitted to future conferences (e.g. ICML, IJCAI) if the acceptance notification comes after the workshop date (February, 27)</u>. 
-
-*We encourage the authors to link a **anonymized** repository containing the code to replicate the results inside the corpus of the paper.* While this is not a mandatory requirement, it will be positively taken in account during the reviewing process and the selection of the contributed talks. You can use <a href="https://anonymous.4open.science/">Anonymous Github</a> or you can upload your repository on a service that allows anonymity (e.g. GDrive allows anonymous links).
-
-Submissions must be in an **anonymized paper format** following the same template of the AAAI track (see <a href="https://aaai.org/aaai-conference/submission-instructions/"> HERE</a>). They will undergo double-blind peer review. Any data included in the submission (paper, supplemental material, linked code) must be anonymized. 
-
-
-Accepted works will be presented as contributed talks or as posters depending on schedule constraints.
-<u>It is mandatory that at least one of the authors will attend the workshop and present its work during the contributed talks and the poster session</u>. 
-
-
-
-**Important Dates**
-
-Submission system opens: 11:59 PM GMT, Oct 15, 2023
-
-Submission deadline: 11:59 PM GMT, ~~Nov 15~~ Nov 21th, 2023 (Extended!!!)
-
-Notification date:  11:59 PM GMT, Dec 10, 2023
-
-Workshop: 09:00 AM GMT-7, Feb 27, 2023 
-
-Submission Link: <a href="https://openreview.net/group?id=AAAI.org/2024/Workshop/XAI4DRL&referrer=%5BHomepage%5D(%2F)">OpenReview</a>
 
 
 # **Contacts**
