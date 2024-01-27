@@ -192,6 +192,26 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
   </div>
 </div>
 
+# **Accepted Papers**
+	
+- Closed Drafting as a Case Study for First-Principle Interpretability, Memory, and Generalizability in Deep Reinforcement Learning. <i>Ryan Rezai and Jason Wang</i>
+
+- Clustered Policy Decision Ranking. <i>Mark Levin and Hana Chockler</i>
+
+- Efficiently Quantifying Individual Agent Importance in Cooperative MARL. <i>Omayma Mahjoub, Ruan de Kock, Siddarth Singh, Wiem Khlif, Abidine Vall, Kale-ab Tessera, Rihab Gorsane, Arnu Pretorius </i>
+
+- How much can change in a year? Revisiting Evaluation in Multi-Agent Reinforcement Learning. <i>Siddarth Singh, Omayma Mahjoub, Ruan John de Kock, Wiem Khlifi, Abidine Vall, Kale-ab Tessera, Arnu Pretorius</i>
+
+- On Diagnostics for Understanding Agent Training Behaviour in Cooperative MARL.
+<i>Wiem Khlif, Siddarth Singh, Omayma Mahjoub, Ruan John de Kock, Abidine Vall, Rihab Gorsane, Arnu Pretorius</i>
+
+- Explainable Brain-Inspired Representations Improve RL Performance on Visual Navigation Tasks. <i>Moritz Lange, Raphael C. Engelhardt, Wolfgang Konen, Laurenz Wiskott</i>
+
+- Explainable Reinforcement Learning for Alzheimer’s Disease Progression Prediction: a SHAP-based Approach. <i>Raja Farrukh Ali, Ayesha Farooq, John Woods, Emmanuel Adeniji, Vinny Sun, William Hsu</i>
+
+- Self-Supervised Interpretable Sensorimotor Learning via Latent Functional Modularity. <i>Hyunki Seong, Hyunchul Shim</i>
+
+
 
 # **Call for Papers**
 
