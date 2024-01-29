@@ -36,7 +36,355 @@ The topics include <u>but are not limited to</u>:
 Note: XAI methods applied to deep reinforcement learning models will be prefered for the selection of contribution do be presented during the workshop in case of bordline decisions. 
 
 # **Schedule**
- TBD
+ # **Schedule**
+
+<table class="table table-condensed" style="border-style:none !important">
+            <colgroup><col style="width:80px">
+</colgroup>
+<tbody>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+        <div>
+            08:50 a.m. - 9:00 a.m. 
+        </div>
+    </td>
+    <td>
+        <strong>
+            Welcome
+        </strong>
+            <small>(Opening)</small>
+               <span>
+               </span>
+        <div>
+            <div class="collapse" id="collapse22157">
+                <div class="card card-body">
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i></i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+        <div>
+            09:00 a.m. - 9:45 a.m. 
+        </div>
+    </td>
+    <td>
+        <strong>
+            A View From Somewhere: Decomposing the Dimensions of Human Decision Making
+        </strong>
+            <small>(Invited Talk)</small>
+               <span>
+               </span>
+        <div>
+            <div class="collapse" id="collapse22157">
+                <div class="card card-body">
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Jerone Andrews</i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+        <div>
+            09:45 a.m. - 10:05 a.m. 
+        </div>
+    </td>
+    <td>
+        <strong>
+            Clustered Policy Decision Ranking
+        </strong>
+            <small>(Contributed Paper)</small>
+               <span>
+               </span>
+        <div>
+            <div class="collapse" id="collapse22157">
+                <div class="card card-body">
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Mark Levin and Hana Chockler</i>
+    </td>
+</tr>
+
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+        <div>
+            10:05 a.m. - 10:25 a.m. 
+        </div>
+    </td>
+    <td>
+        <strong>
+            Self-Supervised Interpretable Sensorimotor Learning via Latent Functional Modularity
+        </strong>
+            <small>(Contributed Paper)</small>
+               <span>
+               </span>
+        <div>
+            <div class="collapse" id="collapse22157">
+                <div class="card card-body">
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Hyunki Seong and Hyunchul Shim</i>
+    </td>
+</tr>
+
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+        <div>
+            10:30 a.m. - 11:00 a.m. 
+        </div>
+    </td>
+    <td>
+        <strong> Coffee Break
+        </strong>
+            <small></small>
+               <span>
+               </span>
+        <div>
+            <div class="collapse" id="collapse22157">
+                <div class="card card-body">
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i></i>
+    </td>
+</tr>
+
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+        <div>
+            11:00 a.m. - 11:45 a.m. 
+        </div>
+    </td>
+    <td>
+        <strong>
+            TBD
+        </strong>
+            <small>(Invited Talk)</small>
+               <span>
+               </span>
+        <div>
+            <div class="collapse" id="collapse22157">
+                <div class="card card-body">
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Mark Riedl</i>
+    </td>
+</tr>
+
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+        <div>
+            11:45 a.m. - 12:05 a.m. 
+        </div>
+    </td>
+    <td>
+        <strong>
+            Explainable Brain-Inspired Representations Improve RL Performance on Visual Navigation Tasks
+        </strong>
+            <small>(Contributed Paper)</small>
+               <span>
+               </span>
+        <div>
+            <div class="collapse" id="collapse22157">
+                <div class="card card-body">
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Moritz Lange, Raphael C. Engelhardt, Wolfgang Konen, Laurenz Wiskott</i>
+    </td>
+</tr>
+
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+        <div>
+            12:05 a.m. - 12:25 a.m. 
+        </div>
+    </td>
+    <td>
+        <strong>
+            Efficiently Quantifying Individual Agent Importance in Cooperative MARL
+        </strong>
+            <small>(Contributed Paper)</small>
+               <span>
+               </span>
+        <div>
+            <div class="collapse" id="collapse22157">
+                <div class="card card-body">
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Omayma Mahjoub, Ruan de Kock, Siddarth Singh, Wiem Khlif, Abidine Vall, Kale-ab Tessera, Rihab Gorsane, Arnu Pretorius</i>
+    </td>
+</tr>
+
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+        <div>
+            12:30 p.m. - 2:00 p.m. 
+        </div>
+    </td>
+    <td>
+        <strong> Break (Lunch)
+        </strong>
+            <small></small>
+               <span>
+               </span>
+        <div>
+            <div class="collapse" id="collapse22157">
+                <div class="card card-body">
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i></i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+        <div>
+            02:00 p.m. - 2:45 p.m. 
+        </div>
+    </td>
+    <td>
+        <strong> Toward Actionable Explanations for Autonomy
+        </strong>
+            <small>(Invited Talk)</small>
+               <span>
+               </span>
+        <div>
+            <div class="collapse" id="collapse22157">
+                <div class="card card-body">
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Melinda Gervasio</i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+        <div>
+            02:45 p.m. - 3:30 p.m. 
+        </div>
+    </td>
+    <td>
+        <strong> Poster Session
+        </strong>
+            <small></small>
+               <span>
+               </span>
+        <div>
+            <div class="collapse" id="collapse22157">
+                <div class="card card-body">
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i></i>
+    </td>
+</tr>
+
+
+
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+        <div>
+            03:30 p.m. - 4:00 p.m. 
+        </div>
+    </td>
+    <td>
+        <strong> Coffee break
+        </strong>
+            <small></small>
+               <span>
+               </span>
+        <div>
+            <div class="collapse" id="collapse22157">
+                <div class="card card-body">
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i></i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+        <div>
+            04:30 p.m. - 4:45 p.m. 
+        </div>
+    </td>
+    <td>
+        <strong> Explaining RL Agents from the Lens of Perception, Memory, and Uncertainties
+        </strong>
+            <small>(Invited Talk)</small>
+               <span>
+               </span>
+        <div>
+            <div class="collapse" id="collapse22157">
+                <div class="card card-body">
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i>Anurag Koul</i>
+    </td>
+</tr>
+
+
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+        <div>
+            04:45 p.m. - 5:00 p.m. 
+        </div>
+    </td>
+    <td>
+        <strong> Closing Remarks
+        </strong>
+            <small></small>
+               <span>
+               </span>
+        <div>
+            <div class="collapse" id="collapse22157">
+                <div class="card card-body">
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i></i>
+    </td>
+</tr>
+</tbody>
+</table>
+<hr>
 
 # **Invited Speakers**
 
@@ -51,7 +399,7 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
          <br>
          <em>Sony AI</em>
          <br>
-         <em>TBD</em>
+         <em>A View From Somewhere: Decomposing the Dimensions of Human Decision Making</em>
         </div>
     </div>
 
@@ -70,21 +418,7 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
       </div>
     </div>
 </div>
-<div class="row" style="border-style: groove; border-color:green; border-width: thin;">
-    <div class="photo_speaker">   
-  <a href="https://koulanurag.dev/">
-      <img src="images/koul.jpeg" alt="Anurag Koul" style=" margin-left: 10px;margin-top: 10px;margin-bottom:10px; width:150px;  height:150px;  object-fit:cover;"></a>
-    </div>
-        <div class="speaker" style="margin:0;">
-      <div style="padding-top: 30px;
-  padding-bottom: 30px;">
-        <a href="https://koulanurag.dev/"><strong>Anurag Koul</strong></a><br>
-        <em>Microsoft Research</em>  
-        <br>
-         <em>TBD</em>   
-      </div>
-    </div>
-</div>
+
 <div class="row" style="border-style: groove; border-color:green; border-width: thin;">
     <div class="photo_speaker">   
   <a href="https://www.linkedin.com/in/melinda-gervasio-b92147142">
@@ -96,11 +430,25 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
         <a href="https://www.linkedin.com/in/melinda-gervasio-b92147142"><strong>Melinda Gervasio</strong></a><br>
         <em>SRI International</em>
         <br>
-         <em>TBD</em>     
+         <em>Toward Actionable Explanations for Autonomy</em>     
       </div>
     </div>
 </div>
-
+<div class="row" style="border-style: groove; border-color:green; border-width: thin;">
+    <div class="photo_speaker">   
+  <a href="https://koulanurag.dev/">
+      <img src="images/koul.jpeg" alt="Anurag Koul" style=" margin-left: 10px;margin-top: 10px;margin-bottom:10px; width:150px;  height:150px;  object-fit:cover;"></a>
+    </div>
+        <div class="speaker" style="margin:0;">
+      <div style="padding-top: 30px;
+  padding-bottom: 30px;">
+        <a href="https://koulanurag.dev/"><strong>Anurag Koul</strong></a><br>
+        <em>Microsoft Research</em>  
+        <br>
+         <em>Explaining RL Agents from the Lens of Perception, Memory, and Uncertainties</em>   
+      </div>
+    </div>
+</div>
 
 
 <hr>
