@@ -36,7 +36,6 @@ The topics include <u>but are not limited to</u>:
 Note: XAI methods applied to deep reinforcement learning models will be prefered for the selection of contribution do be presented during the workshop in case of bordline decisions. 
 
 # **Schedule**
- # **Schedule**
 
 <table class="table table-condensed" style="border-style:none !important">
             <colgroup><col style="width:80px">
@@ -172,7 +171,7 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
     </td>
     <td>
         <strong>
-            TBD
+            Toward Human-Centered Explainable Artificial Intelligence
         </strong>
             <small>(Invited Talk)</small>
                <span>
@@ -414,7 +413,7 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
   padding-bottom: 30px;">
         <a href="https://eilab.gatech.edu/"><strong>Mark Riedl </strong></a><br>
         <em>Georgia Institute of Technology</em> <br>
-        <em>TBD</em>    
+        <em>Toward Human-Centered Explainable Artificial Intelligence</em>    
       </div>
     </div>
 </div>
