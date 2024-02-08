@@ -542,22 +542,29 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
 # **Accepted Papers**
 	
 - Closed Drafting as a Case Study for First-Principle Interpretability, Memory, and Generalizability in Deep Reinforcement Learning. <i>Ryan Rezai and Jason Wang</i>
+<br><a href="https://openreview.net/pdf?id=Xv91890EoH">[Paper]</a>
 
 - Clustered Policy Decision Ranking. <i>Mark Levin and Hana Chockler</i>
+<br><a href="https://openreview.net/pdf?id=oCMegMkrzE">[Paper]</a>
 
 - Efficiently Quantifying Individual Agent Importance in Cooperative MARL. <i>Omayma Mahjoub, Ruan de Kock, Siddarth Singh, Wiem Khlif, Abidine Vall, Kale-ab Tessera, Rihab Gorsane, Arnu Pretorius </i>
+<br><a href="https://openreview.net/pdf?id=wU6rM0ujHT">[Paper]</a>
 
 - How much can change in a year? Revisiting Evaluation in Multi-Agent Reinforcement Learning. <i>Siddarth Singh, Omayma Mahjoub, Ruan John de Kock, Wiem Khlifi, Abidine Vall, Kale-ab Tessera, Arnu Pretorius</i>
+<br><a href="https://openreview.net/pdf?id=2TrfL7H3KS">[Paper]</a>
 
 - On Diagnostics for Understanding Agent Training Behaviour in Cooperative MARL.
 <i>Wiem Khlif, Siddarth Singh, Omayma Mahjoub, Ruan John de Kock, Abidine Vall, Rihab Gorsane, Arnu Pretorius</i>
+<br><a href="https://openreview.net/pdf?id=F3ACB2A1p2">[Paper]</a>
 
-- Explainable Brain-Inspired Representations Improve RL Performance on Visual Navigation Tasks. <i>Moritz Lange, Raphael C. Engelhardt, Wolfgang Konen, Laurenz Wiskott</i>
+- Interpretable Brain-Inspired Representations Improve RL Performance on Visual Navigation Tasks. <i>Moritz Lange, Raphael C. Engelhardt, Wolfgang Konen, Laurenz Wiskott</i>
+<br><a href="https://openreview.net/pdf?id=s1oVgaZ3dQ">[Paper]</a>
 
 - Explainable Reinforcement Learning for Alzheimer’s Disease Progression Prediction: a SHAP-based Approach. <i>Raja Farrukh Ali, Ayesha Farooq, John Woods, Emmanuel Adeniji, Vinny Sun, William Hsu</i>
+<br><a href="https://openreview.net/pdf?id=OuhYChnUeP">[Paper]</a>
 
 - Self-Supervised Interpretable Sensorimotor Learning via Latent Functional Modularity. <i>Hyunki Seong, Hyunchul Shim</i>
-
+<br><a href="https://openreview.net/pdf?id=SM2oBuxqbi">[Paper]</a>
 
 
 # **Call for Papers**
