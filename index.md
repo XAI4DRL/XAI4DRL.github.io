@@ -110,7 +110,7 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
         </div>
     </td>
     <td style="width:25%">
-            <i>Mark Levin and Hana Chockler</i>
+            <i><strong>Mark Levin</strong> and Hana Chockler</i>
     </td>
 </tr>
 
