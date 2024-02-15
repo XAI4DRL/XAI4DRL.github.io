@@ -234,7 +234,7 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
         </div>
     </td>
     <td style="width:25%">
-            <i>Omayma Mahjoub, Ruan de Kock, Siddarth Singh, Wiem Khlif, Abidine Vall, Kale-ab Tessera, Rihab Gorsane, Arnu Pretorius</i>
+            <i><strong>Omayma Mahjoub</strong>, Ruan de Kock, Siddarth Singh, Wiem Khlif, Abidine Vall, Kale-ab Tessera, Rihab Gorsane, Arnu Pretorius</i>
     </td>
 </tr>
 
