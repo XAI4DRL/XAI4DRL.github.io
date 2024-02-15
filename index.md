@@ -135,7 +135,7 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
         </div>
     </td>
     <td style="width:25%">
-            <i>Hyunki Seong and Hyunchul Shim</i>
+            <i><strong>Hyunki Seong</strong> and Hyunchul Shim</i>
     </td>
 </tr>
 
@@ -196,7 +196,7 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
     </td>
     <td>
         <strong>
-            Explainable Brain-Inspired Representations Improve RL Performance on Visual Navigation Tasks
+            Interpretable Brain-Inspired Representations Improve RL Performance on Visual Navigation Tasks
         </strong>
             <small>(Contributed Paper)</small>
                <span>
@@ -209,7 +209,7 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
         </div>
     </td>
     <td style="width:25%">
-            <i>Moritz Lange, Raphael C. Engelhardt, Wolfgang Konen, Laurenz Wiskott</i>
+            <i><strong>Moritz Lange</strong>, Raphael C. Engelhardt, Wolfgang Konen, Laurenz Wiskott</i>
     </td>
 </tr>
 
