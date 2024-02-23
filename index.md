@@ -336,7 +336,7 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
 <tr style="border-style:none !important;position: relative;height:100%">
     <td style="width:25%;height:100%">
         <div>
-            04:30 p.m. - 4:45 p.m. 
+            04:00 p.m. - 4:45 p.m. 
         </div>
     </td>
     <td>
