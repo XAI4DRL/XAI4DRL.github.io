@@ -241,7 +241,7 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
 <tr style="border-style:none !important;position: relative;height:100%">
     <td style="width:25%;height:100%">
         <div>
-            12:30 p.m. - 2:00 p.m. 
+            12:30 p.m. - 02:00 p.m. 
         </div>
     </td>
     <td>
@@ -264,7 +264,7 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
 <tr style="border-style:none !important;position: relative;height:100%">
     <td style="width:25%;height:100%">
         <div>
-            02:00 p.m. - 2:45 p.m. 
+            02:00 p.m. - 02:45 p.m. 
         </div>
     </td>
     <td>
@@ -287,7 +287,30 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
 <tr style="border-style:none !important;position: relative;height:100%">
     <td style="width:25%;height:100%">
         <div>
-            02:45 p.m. - 3:30 p.m. 
+            02:45 p.m. - 03:00 p.m. 
+        </div>
+    </td>
+    <td>
+        <strong> Closing Remarks
+        </strong>
+            <small></small>
+               <span>
+               </span>
+        <div>
+            <div class="collapse" id="collapse22157">
+                <div class="card card-body">
+                </div>
+            </div>
+        </div>
+    </td>
+    <td style="width:25%">
+            <i></i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+        <div>
+            <s>02:45 p.m. - 3:30 p.m.</s> 03:00 p.m. - 03:30 p.m.
         </div>
     </td>
     <td>
@@ -313,7 +336,7 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
 <tr style="border-style:none !important;position: relative;height:100%">
     <td style="width:25%;height:100%">
         <div>
-            03:30 p.m. - 4:00 p.m. 
+            03:30 p.m. - 04:00 p.m. 
         </div>
     </td>
     <td>
@@ -336,13 +359,13 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
 <tr style="border-style:none !important;position: relative;height:100%">
     <td style="width:25%;height:100%">
         <div>
-            04:00 p.m. - 4:45 p.m. 
+            04:00 p.m. - 05:00 p.m.
         </div>
     </td>
     <td>
-        <strong> Explaining RL Agents from the Lens of Perception, Memory, and Uncertainties
+        <strong> Poster Session (contd.)
         </strong>
-            <small>(Invited Talk)</small>
+            <small></small>
                <span>
                </span>
         <div>
@@ -353,12 +376,35 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
         </div>
     </td>
     <td style="width:25%">
-            <i>Anurag Koul</i>
+            <i></i>
+    </td>
+</tr>
+<tr style="border-style:none !important;position: relative;height:100%">
+    <td style="width:25%;height:100%">
+        <div>
+            <s>04:00 p.m. - 04:45 p.m.</s> 
+        </div>
+    </td>
+    <td>
+        <s><strong> Explaining RL Agents from the Lens of Perception, Memory, and Uncertainties
+        </strong>
+            <small>(Invited Talk)</small>
+               <span>
+               </span>
+        <div>
+            <div class="collapse" id="collapse22157">
+                <div class="card card-body">
+                </div>
+            </div>
+        </div></s>
+    </td>
+    <td style="width:25%">
+            <s><i>Anurag Koul</i></s>
     </td>
 </tr>
 
 
-<tr style="border-style:none !important;position: relative;height:100%">
+<!--<tr style="border-style:none !important;position: relative;height:100%">
     <td style="width:25%;height:100%">
         <div>
             04:45 p.m. - 5:00 p.m. 
@@ -380,7 +426,7 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
     <td style="width:25%">
             <i></i>
     </td>
-</tr>
+</tr> -->
 </tbody>
 </table>
 <hr>
