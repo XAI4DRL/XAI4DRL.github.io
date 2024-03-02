@@ -382,11 +382,11 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
 <tr style="border-style:none !important;position: relative;height:100%">
     <td style="width:25%;height:100%">
         <div>
-            <s>04:00 p.m. - 04:45 p.m.</s> 
+            Pre-Recorded 
         </div>
     </td>
     <td>
-        <s><strong> Explaining RL Agents from the Lens of Perception, Memory, and Uncertainties
+        <strong> <a href="https://koulanurag.dev/talk/explaining-rl-agents-from-the-lens-of-perception-memory-and-uncertainties./">Explaining RL Agents from the Lens of Perception, Memory, and Uncertainties (LINK)</ap>
         </strong>
             <small>(Invited Talk)</small>
                <span>
@@ -396,10 +396,10 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
                 <div class="card card-body">
                 </div>
             </div>
-        </div></s>
+        </div>
     </td>
     <td style="width:25%">
-            <s><i>Anurag Koul</i></s>
+            <i>Anurag Koul</i>
     </td>
 </tr>
 
