@@ -402,31 +402,6 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
             <i>Anurag Koul</i>
     </td>
 </tr>
-
-
-<!--<tr style="border-style:none !important;position: relative;height:100%">
-    <td style="width:25%;height:100%">
-        <div>
-            04:45 p.m. - 5:00 p.m. 
-        </div>
-    </td>
-    <td>
-        <strong> Closing Remarks
-        </strong>
-            <small></small>
-               <span>
-               </span>
-        <div>
-            <div class="collapse" id="collapse22157">
-                <div class="card card-body">
-                </div>
-            </div>
-        </div>
-    </td>
-    <td style="width:25%">
-            <i></i>
-    </td>
-</tr> -->
 </tbody>
 </table>
 <hr>
