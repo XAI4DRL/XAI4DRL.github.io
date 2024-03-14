@@ -386,7 +386,7 @@ Note: XAI methods applied to deep reinforcement learning models will be prefered
         </div>
     </td>
     <td>
-        <strong> <a href="https://koulanurag.dev/talk/explaining-rl-agents-from-the-lens-of-perception-memory-and-uncertainties./">Explaining RL Agents from the Lens of Perception, Memory, and Uncertainties (LINK)</ap>
+        <strong> <a href="https://koulanurag.dev/talk/explaining-rl-agents-from-the-lens-of-perception-memory-and-uncertainties./">Explaining RL Agents from the Lens of Perception, Memory, and Uncertainties (LINK)</a>
         </strong>
             <small>(Invited Talk)</small>
                <span>
